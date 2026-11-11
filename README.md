@@ -189,6 +189,4 @@ Verify with `sudo crontab -l`.
 - The dashboard binds to `127.0.0.1` by default. Only use `--host 0.0.0.0` on a trusted network, because the dashboard has no login of its own.
 - Run the tool only on systems you own or are authorized to monitor. Only attack-test your own machine.
 
-## Team
 
-Add your team members' names, roll numbers, and subject details here.
